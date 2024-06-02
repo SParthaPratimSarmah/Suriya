@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "430075542939",
+    "project_id": "fir-authentication-180102007",
+    "storage_bucket": "fir-authentication-180102007.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:430075542939:android:d8c092579794055b47353e",
+        "android_client_info": {
+          "package_name": "com.partha_pratim_sarmah.mu_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "430075542939-g1i8r2j1leoah0fagviakeub54avanum.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5PFcKh__E-X80pr-lUOihsyH97gUvC98"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "430075542939-g1i8r2j1leoah0fagviakeub54avanum.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:430075542939:android:c41de81f3afb650d47353e",
+        "android_client_info": {
+          "package_name": "com.partha_pratim_sarmah_rahul_dev_mahato.Soundtrackoflife"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "430075542939-drh4v58oi61mr5jrv1ouj16o0aroqmjj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.partha_pratim_sarmah_rahul_dev_mahato.Soundtrackoflife",
+            "certificate_hash": "ba62582a6ecb80f5cd1fcb59a136200dfb073660"
+          }
+        },
+        {
+          "client_id": "430075542939-g1i8r2j1leoah0fagviakeub54avanum.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5PFcKh__E-X80pr-lUOihsyH97gUvC98"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "430075542939-g1i8r2j1leoah0fagviakeub54avanum.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

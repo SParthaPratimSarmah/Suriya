@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">सुरीया</string>
+    <string name="userName">आपका नाम</string>
+    <string name="shuffle_btn">मिलाना</string>
+    <string name="favourites_btn">पसंदीदा संगीत</string>
+    <string name="playlist_btn">प्लेलिस्ट</string>
+    <string name="total_songs">पूरा गीत संख्या:</string>
+    <string name="world_of_music">संगीत की दुनिया</string>
+    <string name="song_name">गीत का नाम</string>
+    <string name="back_btn">अगला</string>
+    <string name="start_tv">00:00</string>
+    <string name="end_tv">लोड।।</string>
+    <string name="repeat_btn">दोहराना</string>
+    <string name="equalizer_btn">समकारी</string>
+    <string name="timer_btn">  समयपाल</string>
+    <string name="share_btn"> हिस्सा</string>
+    <string name="open">खोलना</string>
+    <string name="close">बंद करना</string>
+    <string name="app_icon">मूर्ति</string>
+    <string name="text_nav">संगीत की दुनिया में आपका स्वागत है</string>
+    <string name="feedback">प्रतिपुष्टि</string>
+    <string name="settings">सेटिंग्स</string>
+    <string name="about"> करीबन</string>
+    <string name="exit">निकासी</string>
+    <string name="song_album"> एल्बम</string>
+    <string name="min_15">15  मिनट</string>
+    <string name="min_30">30  मिनट</string>
+    <string name="min_60">60  मिनट</string>
+    <string name="search_view">  ढूँढ</string>
+    <string name="song_img">गीत छवि</string>
+    <string name="playlist_name">प्लेलिस्ट नाम</string>
+    <string name="playlist_delete"> मिटाना</string>
+    <string name="user_name">बनाने वाले का नाम</string>
+    <string name="add_song">  संगीत जोड़ें</string>
+    <string name="remove_all"> सभी निकालें</string>
+    <string name="search_song">  अपना संगीत खोजें</string>
+    <string name="topic_feedback">विषय का नाम</string>
+    <string name="email_feedback">  अपना ईमेल दें (वैकल्पिक)</string>
+    <string name="send">जमा करें</string>
+    <string name="set_theme">  विषयवस्तु सेट करें</string>
+    <string name="sort_by">सॉर्टिंग</string>
+    <string name="version_name"> संस्करण का नाम</string>
+    <string name="album_name">  एल्बम</string>
+    //Authentication
+    <string name="no_data"> साइन इन नहीं</string>
+    <string name="sign_in"> साइन इन </string>
+    <string name="sign_out">साइनआउट  </string>
+    <string name="register">पंजीकृत करें</string>
+    <string name="login">   लॉगिन</string>
+    <string name="forget">  पासवर्ड पता नहीं है</string>
+
+
+    <string name="dont_have_account">कोई खाता नहीं है?</string>
+    <string name="already_have_account">पहले से ही एक खाता है?</string>
+    <string name="email">ईमेल</string>
+    <string name="password">पासवर्ड</string>
+    <string name="create_account">खाता बनाएँ</string>
+
+    <string name="client_id" tools:ignore= "TypographyDashes">430075542939-g1i8r2j1leoah0fagviakeub54avanum.apps.googleusercontent.com</string>
+
+    <string name="E_name">ईमेल :</string>
+    <string name="changeLang">भाषा</string>
+    <string name="playlist_selection">बस किसी भी गीत को स्पर्श करें और गीत अपने आप ही प्लेलिस्ट में जुड़ जाएगा</string>
+</resources>

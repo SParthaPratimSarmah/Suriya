@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">সুৰিয়া</string><string name="shuffle_btn">মিশ্ৰণ</string>
+    <string name="userName">ব্যৱহাৰকাৰীৰ নাম</string>
+    <string name="favourites_btn">প্ৰিয় সংগীত</string>
+    <string name="playlist_btn">প্লেলিষ্টসমূহ</string>
+    <string name="total_songs">সম্পূৰ্ণ গানৰ সংখ্যা :</string>
+    <string name="world_of_music">সংগীতৰ পৃথিৱী</string>
+    <string name="song_name">গীতৰ নাম</string>
+    <string name="back_btn">পিছলৈ</string>
+    <string name="start_tv">00:00</string>
+    <string name="end_tv">Loading..</string>
+    <string name="repeat_btn">পুনৰাবৃত্তি কৰক</string>
+    <string name="equalizer_btn">সমতুল্য</string>
+    <string name="timer_btn">সময়সূচী</string>
+    <string name="share_btn">ভাগ বতৰা</string>
+    <string name="open">খোলাা</string>
+    <string name="close">বন্ধ</string>
+    <string name="app_icon">আইকন</string>
+    <string name="text_nav">সংগীতৰ জগতলৈ স্বাগতম</string>
+    <string name="feedback">প্ৰতিক্ৰিয়া</string>
+    <string name="settings">নিৰ্ধাৰিত</string>
+    <string name="about">এপটোৰ বিষয়ে</string>
+    <string name="exit">প্ৰস্থান</string>
+    <string name="song_album">এলবামসমূহ</string>
+    <string name="min_15">15 মিনিট</string>
+    <string name="min_30">30 মিনিট</string>
+    <string name="min_60">60 মিনিট</string>
+    <string name="search_view">আপোনাৰ প্ৰয়োজন অনুসৰি বিচাৰি উলিয়াওক</string>
+    <string name="song_img">গীতৰ ছবি</string>
+    <string name="playlist_name">প্লেলিষ্টটৰ নাম</string>
+    <string name="playlist_delete">নোহোৱা কৰক</string>
+    <string name="user_name">প্ৰস্তুতকৰ্তাৰ নাম</string>
+    <string name="add_song">গীত যোগ কৰক</string>
+    <string name="remove_all">সকলো আঁতৰাওক</string>
+    <string name="search_song">গান অনুসন্ধান কৰক</string>
+    <string name="topic_feedback">বিষয়(Topic) অৰ্থাৎ পৰামৰ্শ, ত্ৰুটি ইত্যাদি।</string>
+    <string name="email_feedback">ইয়াত আপোনাৰ ই-মেইল দিয়ক (Optional)</string>
+    <string name="send">দাখিল দিয়ক</string>
+    <string name="set_theme">থীম ছেট কৰক</string>
+    <string name="sort_by">সংক্ষিপ্তকৰণ</string>
+    <string name="version_name">সংস্কৰণৰ(Version) নাম</string>
+    <string name="album_name">এলবামসমূহ</string>
+    //Authentication
+    <string name="no_data">ছাইন ইন কৰা নাই</string>
+    <string name="sign_in"> ছাইন ইন</string>
+    <string name="sign_out">ছাইন আউট </string>
+    <string name="register">ৰেজিষ্টাৰ</string>
+    <string name="login">লগইন</string>
+
+
+    <string name="dont_have_account">একাউণ্ট নাই?</string>
+    <string name="already_have_account">আগৰে পৰা এটা একাউণ্ট আছে নেকি??</string>
+    <string name="email">ইমেইল</string>
+    <string name="password">পাছৱাৰ্ড</string>
+    <string name="create_account">একাউন্ট বনাওক</string>
+    <string name="forget">পাছৱৰ্ড নাজানে</string>
+
+    <string name="client_id" tools:ignore= "TypographyDashes">430075542939-g1i8r2j1leoah0fagviakeub54avanum.apps.googleusercontent.com</string>
+    <string name="E_name">ইমেইল :</string>
+    <string name="changeLang">ভাষা</string>
+    <string name="playlist_selection">কেৱল যিকোনো গান স্পৰ্শ কৰক আৰু গানটো স্বয়ংক্ৰিয়ভাৱে আপোনাৰ প্লেলিষ্টত যোগ কৰা যাব </string>
+
+
+</resources>

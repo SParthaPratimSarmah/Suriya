@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">সুৰিয়া</string>
+    <string name="userName">User Name</string>
+    <string name="E_name">Email :</string>
+    <string name="shuffle_btn">mix</string>
+    <string name="favourites_btn">Favorite Music</string>
+    <string name="playlist_btn">Playlists</string>
+    <string name="total_songs">Full song number :</string>
+    <string name="world_of_music">World of Music</string>
+    <string name="song_name">Song Name</string>
+    <string name="back_btn">Next</string>
+    <string name="start_tv">00:00</string>
+    <string name="end_tv">Loading..</string>
+    <string name="repeat_btn">Repeat</string>
+    <string name="equalizer_btn">Equalizer</string>
+    <string name="timer_btn">Timer</string>
+    <string name="share_btn">Share</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="app_icon">Icon</string>
+    <string name="text_nav">Welcome to world of Music</string>
+    <string name="feedback">Feedback</string>
+    <string name="settings">Settings</string>
+    <string name="about">About</string>
+    <string name="exit">Exit</string>
+    <string name="song_album">Albums</string>
+    <string name="min_15">15 Minutes</string>
+    <string name="min_30">30 Minutes</string>
+    <string name="min_60">60 Minutes</string>
+    <string name="search_view">Search</string>
+    <string name="song_img">Song Image</string>
+    <string name="playlist_name">Playlist Name</string>
+    <string name="playlist_delete">Delete</string>
+    <string name="user_name">Name of the creater</string>
+    <string name="add_song">Add Music</string>
+    <string name="remove_all">Remove All</string>
+    <string name="search_song">Search your music</string>
+    <string name="topic_feedback">Name of the Topic</string>
+    <string name="email_feedback">Give your email (Optional)</string>
+    <string name="send">Submit</string>
+    <string name="set_theme">Set the theme</string>
+    <string name="sort_by">Sorting</string>
+    <string name="version_name">Version Name</string>
+    <string name="album_name">Albums</string>
+    //Authentication
+    <string name="no_data">Not sigin</string>
+    <string name="sign_in"> Sigin</string>
+    <string name="sign_out">SignOut</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="forget">ForgetPassword</string>
+
+
+    <string name="dont_have_account">No Account?</string>
+    <string name="already_have_account">Already have an account?</string>
+    <string name="email">Email</string>
+    <string name="password">Passowrd</string>
+    <string name="create_account">Create Account</string>
+
+    <string name="client_id" tools:ignore="TypographyDashes">430075542939-g1i8r2j1leoah0fagviakeub54avanum.apps.googleusercontent.com</string>
+
+    <string name="changeLang">Language</string>
+    <string name="playlist_selection">Simply touch any of the song and song is automatically added to your playlist</string>
+</resources>

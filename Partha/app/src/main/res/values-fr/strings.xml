@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">சூரியா</string>
+    <string name="userName"> nom d’utilisateur </string>
+    <string name="shuffle_btn">mélanger</string>
+    <string name="favourites_btn">Musique préférée</string>
+    <string name="playlist_btn">Listes de lecture</string>
+    <string name="total_songs">Numéro complet de la chanson :</string>
+    <string name="world_of_music"> Monde de la musique</string>
+    <string name="song_name">Nom de la chanson</string>
+    <string name="back_btn">Prochain</string>
+    <string name="start_tv">00:00</string>
+    <string name="end_tv">Chargement..</string>
+    <string name="repeat_btn">পRépéter</string>
+    <string name="equalizer_btn">Égaliseurয</string>
+    <string name="timer_btn">Minuteur</string>
+    <string name="share_btn">Partager</string>
+    <string name="open">Ouvrir</string>
+    <string name="close">Fermer</string>
+    <string name="app_icon">Icône</string>
+    <string name="text_nav">Bienvenue dans le monde de la musique</string>
+    <string name="feedback">Rétroaction</string>
+    <string name="settings">Paramètres</string>
+    <string name="about">Environ</string>
+    <string name="exit">পSortie</string>
+    <string name="song_album"> Albums</string>
+    <string name="min_15">15 minutes</string>
+    <string name="min_30">30 minutes</string>
+    <string name="min_60">60 minutes</string>
+    <string name="search_view">Rechercher</string>
+    <string name="song_img">Image de la chanson</string>
+    <string name="playlist_name">Nom de la liste de lecture</string>
+    <string name="playlist_delete">Supprimer</string>
+    <string name="user_name">Nom du créateur</string>
+    <string name="add_song">Ajouter de la musique</string>
+    <string name="remove_all">Supprimer tout</string>
+    <string name="search_song">Rechercher votre musique</string>
+    <string name="topic_feedback">Nom de la rubrique</string>
+    <string name="email_feedback">Donnez votre e-mail (Facultatif)</string>
+    <string name="send">Envoyer</string>
+    <string name="set_theme">Définir le thème</string>
+    <string name="sort_by">  Classement</string>
+    <string name="version_name">Nom de la version</string>
+    <string name="album_name">Albums</string>
+    //Authentication
+    <string name="no_data"> Pas sigin</string>
+    <string name="sign_in"> sigin</string>
+    <string name="sign_out">Déconnexion </string>
+    <string name="register">  Registre</string>
+    <string name="login">Connectez-vous</string>
+    <string name="forget">Ne connaissez pas le mot de passe</string>
+
+
+    <string name="dont_have_account">Pas de compte?</string>
+    <string name="already_have_account"> Vous avez déjà un compte ?</string>
+    <string name="email">Messagerie électronique</string>
+    <string name="password">Passowrd</string>
+    <string name="create_account">Créer un compte</string>
+
+    <string name="client_id" tools:ignore= "TypographyDashes">430075542939-g1i8r2j1leoah0fagviakeub54avanum.apps.googleusercontent.com</string>
+    <string name="E_name">Messagerie électronique :</string>
+    <string name="changeLang">Langue</string>
+    <string name="playlist_selection">Touchez simplement l\'une des chansons et la chanson est automatiquement ajoutée à votre liste de lecture</string>
+</resources>

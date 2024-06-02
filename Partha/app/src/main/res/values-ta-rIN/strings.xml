@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">সুৰিয়া</string>
+    <string name="shuffle_btn">
+கலக்க</string>
+    <string name="userName"> பயனர் பெயர்</string>
+    <string name="favourites_btn">பிடித்த இசை</string>
+    <string name="playlist_btn">இசைப்பட்டியல்</string>
+    <string name="total_songs"> முழு பாடல் எண்:</string>
+    <string name="world_of_music">இசை உலகம்</string>
+    <string name="song_name">பாடலின் பெயர்</string>
+    <string name="back_btn">
+எல்லாவற்றிற்கும் முற்பட்ட</string>
+    <string name="start_tv">00:00</string>
+    <string name="end_tv">  சுமை..</string>
+    <string name="repeat_btn">மடிக்க</string>
+    <string name="equalizer_btn">சமன்படுத்தல்</string>
+    <string name="timer_btn">    நேரப் பதிவாளர்</string>
+    <string name="share_btn"> பங்கு</string>
+    <string name="open">திறக்க</string>
+    <string name="close">    நிறுத்து</string>
+    <string name="app_icon">பொய்த்தெய்வம்</string>
+    <string name="text_nav">
+இசை உலகத்திற்கு வரவேற்கிறோம்</string>
+    <string name="feedback">பின்னூட்டம்</string>
+    <string name="settings">அமைப்புகள்</string>
+    <string name="about">  அடைப்பு</string>
+    <string name="exit">வெளியே எடுக்கும் செயல்</string>
+    <string name="song_album">  வெள்ளேடு</string>
+    <string name="min_15">15  நிமிடம்</string>
+    <string name="min_30">30  நிமிடம்</string>
+    <string name="min_60">60  நிமிடம்</string>
+    <string name="search_view">  தேட்டம்</string>
+    <string name="song_img">பாடல் படம்</string>
+    <string name="playlist_name">இசைப்பட்டியல் பெயர்</string>
+    <string name="playlist_delete">
+ வெளியே கறைபடியச் செய்ய</string>
+    <string name="user_name">சிருஷ்டிகரின் பெயர்</string>
+    <string name="add_song">  இசையை சேர்</string>
+    <string name="remove_all"> அனைத்தையும் நீக்கு</string>
+    <string name="search_song">  உங்கள் இசையைக் கண்டறியவும்</string>
+    <string name="topic_feedback">   ஆய்வுக்குட்படுநரின் பெயர்</string>
+    <string name="email_feedback">  உங்கள் மின்னஞ்சலைக் கொடுங்கள் (விரும்பினால்)</string>
+    <string name="send">
+சமர்ப்பிக்க</string>
+    <string name="set_theme">
+   கருப்பொருளை அமை</string>
+    <string name="sort_by"> வரிசையாக்கம்</string>
+    <string name="version_name"> பதிப்பு பெயர்</string>
+    <string name="album_name"> வெள்ளேடு</string>
+    //Authentication
+     <string name="no_data">   சிகின் அல்ல.</string>
+    <string name="sign_in">  சிகின்</string>
+    <string name="sign_out">    உள்நுழைவு </string>
+    <string name="register"> பதிவுசெய்</string>
+    <string name="login">உள்நுழைவு</string>
+
+
+    <string name="dont_have_account">கணக்கு இல்லையா?</string>
+    <string name="already_have_account">உங்களிடம் ஏற்கனவே ஒரு கணக்கு உள்ளதா?</string>
+    <string name="email">மின்னஞ்சல்</string>
+    <string name="password">கடவுச்சொல்</string>
+    <string name="create_account">கணக்கை உருவாக்கு</string>
+    <string name="forget">கடவுச்சொல்லை மறந்துவிடு</string>
+
+    <string name="client_id" tools:ignore= "TypographyDashes">430075542939-g1i8r2j1leoah0fagviakeub54avanum.apps.googleusercontent.com</string>
+
+    <string name="E_name">மின்னஞ்சல் :</string>
+    <string name="changeLang">மொழி</string>
+    <string name="playlist_selection">எந்தவொரு பாடலையும் தொட்டால், பாடல் தானாகவே உங்கள் பிளேலிஸ்ட்டில் சேர்க்கப்படும்</string>
+</resources>
